@@ -1,0 +1,2 @@
+# FirCi
+C first programm
